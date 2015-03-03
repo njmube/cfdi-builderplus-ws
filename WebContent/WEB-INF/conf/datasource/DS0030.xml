@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<datasource>
+<name>your company name</name>
+<host>192.168.0.30</host>
+<dbName>your.db</dbName>
+<user>your.db.user</user>
+<password>your.db.pass</password>
+<notes>data</notes>
+<RFC>your.rfc</RFC>
+<privateKeyFileName>your.key</privateKeyFileName>
+<contrasenaPrivateKey>your.key.pass</contrasenaPrivateKey>
+<certifiedFileName>your.cer</certifiedFileName>
+</datasource>

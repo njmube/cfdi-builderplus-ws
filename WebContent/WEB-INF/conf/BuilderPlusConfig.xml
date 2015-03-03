@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<builder-plus>
+<url>https://timbradosecure.ekomercio.com/WSCFDIBuilderPlusXML/WSCFDBuilderPlus.asmx?WSDL</url>
+<user>your.ws.user</user>
+<password>your.ws.pass</password>
+</builder-plus>
